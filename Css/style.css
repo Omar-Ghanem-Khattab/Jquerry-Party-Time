@@ -203,6 +203,7 @@ li a:hover{
 #opening
 {
   left: calc(100% + 20px);
+  cursor: pointer;
 }
 
 /* section duration */
@@ -210,6 +211,7 @@ li a:hover{
 .Singer h3{
     background-color: #E68285 ;
     color: white;
+    cursor: pointer;
 }
 
 
